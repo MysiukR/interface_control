@@ -176,32 +176,6 @@ namespace Interface_Control
                 dataGridView1[2, i].Value = "9600";
                 dataGridView1[3, i].Value = "Online";
             }
-        //    dataGridView1[1, 0].Value = Convert.ToString(registerData[registerData.Length - 1].Value_register.ToString());
-      
-            //  FileStream download_stream = new FileStream("detecting_data.txt", FileMode.Open);
-
-            //int order_number = 0;
-            //dataGridView1.RowCount = 247;
-            //for (int i = 0; i < 247; i++)
-            //{
-            //    order_number = i + 1;
-            //    string text = "255\n" + "2" + "\n" + i + "\n" + "29" + "\n";
-            //    System.IO.File.WriteAllText(@"D:\Setup(MyProgram)\Interface_Control\Interface_Control\bin\Debug\data1.txt", text);
-            //    string upload_filename = "data1.txt";
-            //    string remove_filename = "Settings_register.txt";
-            //    sftp.UploadFile(upload_filename, remove_filename);
-            //    Thread.Sleep(10000);
-            //    sftp.DownloadFile("Instant_query.txt", "data2.txt");
-            //    string[] x = sftp.getFile("data2.txt");
-            //    Register[] registerData = ConverDataRegister(x);
-            //    if (registerData.Length == 0)
-            //        return;
-            //    dataGridView1[0, i].Value = Convert.ToString(i + 1);
-            //    dataGridView1[1, i].Value = Convert.ToString(registerData[registerData.Length - 1].Value_register.ToString());
-            //    dataGridView1[2, i].Value = Convert.ToString(i + 1);
-            //    dataGridView1[3, i].Value = Convert.ToString("Offline");
-            //    sftp.DeleteFile("Instant_query.txt");
-            //}
         }
     }
 }
