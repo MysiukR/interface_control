@@ -1,0 +1,50 @@
+D:\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.Filter.resources
+D:\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.Form1.resources
+D:\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.Properties.Resources.resources
+D:\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.Settings_functions_registers.resources
+D:\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.csproj.GenerateResource.Cache
+D:\Setup(MyProgram)\Interface_Control\Interface_Control\bin\Debug\Interface_Control.exe.config
+D:\Setup(MyProgram)\Interface_Control\Interface_Control\bin\Debug\Interface_Control.exe
+D:\Setup(MyProgram)\Interface_Control\Interface_Control\bin\Debug\Interface_Control.pdb
+D:\Setup(MyProgram)\Interface_Control\Interface_Control\bin\Debug\MySql.Data.dll
+D:\Setup(MyProgram)\Interface_Control\Interface_Control\bin\Debug\Renci.SshNet.dll
+D:\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.exe
+D:\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.pdb
+D:\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.Instant_settings.resources
+D:\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.Table_device.resources
+D:\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.DB_Connect.resources
+D:\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.TableDataBase.resources
+C:\Users\musyk\Desktop\Setup(MyProgram)\Interface_Control\Interface_Control\bin\Debug\Interface_Control.exe.config
+C:\Users\musyk\Desktop\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.exe
+C:\Users\musyk\Desktop\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.pdb
+C:\Users\musyk\Desktop\Setup(MyProgram)\Interface_Control\Interface_Control\bin\Debug\Interface_Control.exe
+C:\Users\musyk\Desktop\Setup(MyProgram)\Interface_Control\Interface_Control\bin\Debug\Interface_Control.pdb
+C:\Users\musyk\Desktop\Setup(MyProgram)\Interface_Control\Interface_Control\bin\Debug\MySql.Data.dll
+C:\Users\musyk\Desktop\Setup(MyProgram)\Interface_Control\Interface_Control\bin\Debug\Renci.SshNet.dll
+C:\Users\musyk\Desktop\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.DB_Connect.resources
+C:\Users\musyk\Desktop\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.Filter.resources
+C:\Users\musyk\Desktop\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.Form1.resources
+C:\Users\musyk\Desktop\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.Instant_settings.resources
+C:\Users\musyk\Desktop\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.Properties.Resources.resources
+C:\Users\musyk\Desktop\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.Settings_functions_registers.resources
+C:\Users\musyk\Desktop\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.TableDataBase.resources
+C:\Users\musyk\Desktop\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.Table_device.resources
+C:\Users\musyk\Desktop\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.csproj.GenerateResource.Cache
+C:\Users\musyk\Desktop\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.csprojResolveAssemblyReference.cache
+D:\Study\3 курс\Setup(MyProgram)\Interface_Control\Interface_Control\bin\Debug\Interface_Control.exe.config
+D:\Study\3 курс\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.exe
+D:\Study\3 курс\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.pdb
+D:\Study\3 курс\Setup(MyProgram)\Interface_Control\Interface_Control\bin\Debug\Interface_Control.exe
+D:\Study\3 курс\Setup(MyProgram)\Interface_Control\Interface_Control\bin\Debug\Interface_Control.pdb
+D:\Study\3 курс\Setup(MyProgram)\Interface_Control\Interface_Control\bin\Debug\MySql.Data.dll
+D:\Study\3 курс\Setup(MyProgram)\Interface_Control\Interface_Control\bin\Debug\Renci.SshNet.dll
+D:\Study\3 курс\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.csprojResolveAssemblyReference.cache
+D:\Study\3 курс\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.DB_Connect.resources
+D:\Study\3 курс\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.Filter.resources
+D:\Study\3 курс\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.Form1.resources
+D:\Study\3 курс\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.Instant_settings.resources
+D:\Study\3 курс\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.Properties.Resources.resources
+D:\Study\3 курс\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.Settings_functions_registers.resources
+D:\Study\3 курс\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.TableDataBase.resources
+D:\Study\3 курс\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.Table_device.resources
+D:\Study\3 курс\Setup(MyProgram)\Interface_Control\Interface_Control\obj\Debug\Interface_Control.csproj.GenerateResource.Cache
