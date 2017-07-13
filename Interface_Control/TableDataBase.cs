@@ -27,12 +27,9 @@ namespace Interface_Control
         {
             
             string myConnectionString = "SERVER=localhost;" +
-           //     "DATABASE = MODBUS;" +
-             //                  "UID = root;" +
-               //                "PASSWORD = admin;";//db міняти відповідно до обраного зі списку баз даних. Себто відкривати таблиці.               
-                                                        "DATABASE = modbus;" +
-                                                         "UID = root;" +
-                                                         "PASSWORD = franko1324;";//db міняти відповідно до обраного зі списку баз даних. Себто відкривати таблиці.
+              "DATABASE = MODBUS;" +
+                        "UID = root;" +
+                            "PASSWORD = admin;"
 
             MySqlConnection connection = new MySqlConnection(myConnectionString);
             MySqlCommand command = connection.CreateCommand();
